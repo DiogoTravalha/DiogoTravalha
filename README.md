@@ -9,6 +9,7 @@ Você pode me encontrar: [Twitter](https://twitter.com/diogotravalha), [LinkedIn
 #### No momento, estou trabalhando com
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React%20Native-69529c?style=flat-square&logo=react&logoColor=white)
+![NextJs](https://img.shields.io/badge/Next%20Js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node%20JS-8eca4c?style=flat-square&logo=Node.js&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
