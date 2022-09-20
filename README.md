@@ -1,9 +1,10 @@
+![Screenshot](https://raw.githubusercontent.com/DiogoTravalha/CRM/main/banneradm.png)
+
 ### Olá 👋
 
 Eu sou Diogo, entusiasta de tecnologia.
 
-Você pode me encontrar: [Twitter](https://twitter.com/diogotravalha), [LinkedIn](www.linkedin.com/in/diogotravalha
-), [Instagram](https://www.instagram.com/diogotravalha/)
+Você pode me encontrar: [Instagram](https://www.instagram.com/diogotravalha/), [LinkedIn](www.linkedin.com/in/diogotravalha), [Twitter](https://twitter.com/diogotravalha)
 
 
 #### No momento, estou trabalhando com
