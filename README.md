@@ -1,6 +1,6 @@
 ![Screenshot](https://raw.githubusercontent.com/DiogoTravalha/CRM/main/banneradm.png)
 
-### Olá 👋
+### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 Eu sou Diogo, entusiasta de tecnologia.
 
