@@ -1,6 +1,4 @@
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" >
-
-![Screenshot](https://raw.githubusercontent.com/DiogoTravalha/CRM/main/banneradm.png)
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="100%" >
 
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
@@ -22,3 +20,5 @@ Você pode me encontrar: [Instagram](https://www.instagram.com/diogotravalha/), 
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-30608e?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+
+![Screenshot](https://raw.githubusercontent.com/DiogoTravalha/CRM/main/banneradm.png)
