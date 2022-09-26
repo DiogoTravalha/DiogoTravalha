@@ -26,7 +26,7 @@
 <a href="https://github.com/DiogoTravalha/Timer" target="blank"><img align="center" src="https://github.com/DiogoTravalha/Timer/raw/main/preview.png" alt="timer" width="49%" /><a>  </a><img align="center" src="https://github.com/DiogoTravalha/Timer/raw/main/preview1.png" alt="timer" width="49%" /></a>
 
 ### [Feed](https://github.com/DiogoTravalha/igniteFeed)
-<a href="https://github.com/DiogoTravalha/igniteFeed" target="blank"><img src="https://github.com/DiogoTravalha/CRM/raw/main/crm.png" width="50%" ><a/>
+<a href="https://github.com/DiogoTravalha/igniteFeed" target="blank"><img src="https://github.com/DiogoTravalha/igniteFeed/blob/main/preview.png" width="50%" ><a/>
 
 ### [ToDoList](https://github.com/DiogoTravalha/TodoList)
 <a href="https://github.com/DiogoTravalha/TodoList" target="blank"><img src="https://github.com/DiogoTravalha/TodoList/blob/main/todo.png" width="50%" ><a/>
