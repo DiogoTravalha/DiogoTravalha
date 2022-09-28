@@ -22,7 +22,6 @@
 <a href="https://github.com/DiogoTravalha/CRM" target="blank"><img src="https://github.com/DiogoTravalha/CRM/raw/main/crm.png" width="50%" ><a/>
 
 ### [Timer](https://github.com/DiogoTravalha/Timer)
-
 <a href="https://github.com/DiogoTravalha/Timer" target="blank"><img align="center" src="https://github.com/DiogoTravalha/Timer/raw/main/preview.png" alt="timer" width="49%" /><a>  </a><img align="center" src="https://github.com/DiogoTravalha/Timer/raw/main/preview1.png" alt="timer" width="49%" /></a>
 
 ### [Feed](https://github.com/DiogoTravalha/igniteFeed)
@@ -30,6 +29,9 @@
 
 ### [ToDoList](https://github.com/DiogoTravalha/TodoList)
 <a href="https://github.com/DiogoTravalha/TodoList" target="blank"><img src="https://github.com/DiogoTravalha/TodoList/blob/main/todo.png" width="50%" ><a/>
+
+### [GitBlog](https://github.com/DiogoTravalha/GitBlog)
+<a href="https://github.com/DiogoTravalha/GitBlog" target="blank"><img align="center" src="https://github.com/DiogoTravalha/GitBlog/raw/main/preview.png" alt="GitBlog" width="49%" /><a>  </a><img align="center" src="https://github.com/DiogoTravalha/GitBlog/raw/main/preview1.png" alt="GitBlog" width="49%" /></a>
 
 </div>
 
