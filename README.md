@@ -11,26 +11,28 @@
 
 <div align="center">
 
-### [DT Money](https://github.com/DiogoTravalha/DTMoney)
-
+<a href="https://github.com/DiogoTravalha/DTMoney" target="blank">DTMoney</a>
+  
 <a href="https://github.com/DiogoTravalha/DTMoney" target="blank"><img align="center" src="https://github.com/DiogoTravalha/DTMoney/blob/main/preview.png" alt="dtmoney" width="49%" /><a>  </a><img align="center" src="https://github.com/DiogoTravalha/DTMoney/blob/main/preview.png" alt="dtmoney" width="49%" /></a>
 
-### [Coffee](https://github.com/DiogoTravalha/Coffee)
+<a href="https://github.com/DiogoTravalha/Coffee" target="blank">Coffe</a>
+  
 <a href="https://github.com/DiogoTravalha/Coffee" target="blank"><img align="center" src="https://github.com/DiogoTravalha/Coffee/blob/main/preview.png" alt="coffee" width="49%" /><a>  </a><img align="center" src="https://github.com/DiogoTravalha/Coffee/raw/main/preview2.png" alt="coffee" width="49%" /></a>
 
-### [Crm](https://github.com/DiogoTravalha/CRM)
-<a href="https://github.com/DiogoTravalha/CRM" target="blank"><img src="https://github.com/DiogoTravalha/CRM/raw/main/crm.png" width="50%" ><a/>
+<a href="https://github.com/DiogoTravalha/CRM" target="blank" width="50%" >CRM</a><a>&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/DiogoTravalha/CRM" target="blank" width="50%">Feed</a>  
+  
+<a href="https://github.com/DiogoTravalha/CRM" target="blank"><img align="center" src="https://github.com/DiogoTravalha/CRM/raw/main/crm.png" alt="CRM" width="49%" /><a> </a><img align="center" src="https://github.com/DiogoTravalha/igniteFeed/raw/main/preview.png" alt="igniteFeed" width="49%" /></a>
 
-### [Timer](https://github.com/DiogoTravalha/Timer)
+<a href="https://github.com/DiogoTravalha/Timer" target="blank">Timer</a>
+  
 <a href="https://github.com/DiogoTravalha/Timer" target="blank"><img align="center" src="https://github.com/DiogoTravalha/Timer/raw/main/preview.png" alt="timer" width="49%" /><a>  </a><img align="center" src="https://github.com/DiogoTravalha/Timer/raw/main/preview1.png" alt="timer" width="49%" /></a>
 
-### [Feed](https://github.com/DiogoTravalha/igniteFeed)
-<a href="https://github.com/DiogoTravalha/igniteFeed" target="blank"><img src="https://github.com/DiogoTravalha/igniteFeed/blob/main/preview.png" width="50%" ><a/>
-
-### [ToDoList](https://github.com/DiogoTravalha/TodoList)
+<a href="https://github.com/DiogoTravalha/TodoList" target="blank">TodoList</a>
+  
 <a href="https://github.com/DiogoTravalha/TodoList" target="blank"><img src="https://github.com/DiogoTravalha/TodoList/blob/main/todo.png" width="50%" ><a/>
-
-### [GitBlog](https://github.com/DiogoTravalha/GitBlog)
+  
+<a href="https://github.com/DiogoTravalha/GitBlog" target="blank">GitBlog</a>
+  
 <a href="https://github.com/DiogoTravalha/GitBlog" target="blank"><img align="center" src="https://github.com/DiogoTravalha/GitBlog/raw/main/preview.png" alt="GitBlog" width="49%" /><a>  </a><img align="center" src="https://github.com/DiogoTravalha/GitBlog/raw/main/preview1.png" alt="GitBlog" width="49%" /></a>
 
 </div>
