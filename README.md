@@ -12,4 +12,3 @@
 
 </p>
 
-![Screenshot](https://raw.githubusercontent.com/DiogoTravalha/CRM/main/banneradm.png)
