@@ -8,7 +8,7 @@ Sou um desenvolvedor a **5 anos** especializado em **JavaScript**. Tenho paixão
 - **Frameworks**: React, React Native, NextJS, Node
 - **Banco de Dados**: PostgreSQL, MySQL
 - **DevOps**: Docker, AWS
-- **Outras Tecnologias**: GraphQL, REST APIs, Serverless, PWA, WebSockets
+- **Outras Tecnologias**: GraphQL, REST APIs, Serverless, PWA, WebSockets, Tailwind CSS
 
 ## 🌱 Aprendendo Atualmente
 
