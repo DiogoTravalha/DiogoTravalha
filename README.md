@@ -1,5 +1,3 @@
-# 👋 Olá,
-
 ## 🚀 Tecnologias e Ferramentas
 
 - **Linguagens**: JavaScript, TypeScript
